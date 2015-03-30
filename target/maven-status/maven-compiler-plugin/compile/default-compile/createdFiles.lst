@@ -1,0 +1,11 @@
+nl\hu\v2iac1\facebook\FBGraph.class
+nl\hu\v2iac1\SampleApplication$1.class
+nl\hu\v2iac1\rest\resource\PublicRestService.class
+nl\hu\v2iac1\SampleApplication.class
+nl\hu\v2iac1\rest\resource\SecretRestService.class
+nl\hu\v2iac1\rest\resource\VerySecretRestService.class
+nl\hu\v2iac1\Configuration.class
+nl\hu\v2iac1\rest\resource\AbstractRestService.class
+nl\hu\v2iac1\rest\resource\TopSecretRestService.class
+nl\hu\v2iac1\facebook\FBConnection.class
+nl\hu\v2iac1\Configuration$Key.class
